@@ -1,2 +1,2 @@
-# Mammogram based cancer detection using Deep Convolutional Neural Networks. 
+# Mammogram breast cancer detection using a Deep Convolutional Neural Network (DCNN). 
   The INbreast dataset is used to build a DCNN from scratch using keras. The DCNN takes as input the mammogram, breast mass ROI, and microcalcification ROI and outputs a classification as either benign or malignant. The ROIs are input to the DCNN as masked images. Please contact husseinsamy32@gmail.com for the mammogram and ROI files.
